@@ -1,9 +1,10 @@
 # simple_droid_webview_app
 Simple Android WebView app
 
-## Install Android Studio
+## Insgtall Android Studio
 See instructions/videos at [this page](https://developer.android.com/studio/install "Official Android Studio website")
 
+## Run project/app
 Once Android Studio is setup:
 1. Clone/download this project.
 2. Import downloaded project into Android Studio.
